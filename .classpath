@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/shubham/OneDrive/Desktop/Selenium Project/junit.jar/junit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubham/OneDrive/Desktop/Selenium Project/junit-4.13 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubham/OneDrive/Desktop/Selenium Project/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubham/OneDrive/Desktop/Selenium Project/cucumber-java-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubham/OneDrive/Desktop/Selenium Project/cucumber-core-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubham/OneDrive/Desktop/Selenium Project/mockito-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubham/OneDrive/Desktop/Selenium Project/cucumber-junit-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubham/OneDrive/Desktop/Selenium Project/cucumber-java-6.1.1 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubham/OneDrive/Desktop/Selenium Project/apiguardian-api-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubham/OneDrive/Desktop/Selenium Project/cucumber-expressions-10.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubham/OneDrive/Desktop/Selenium Project/messages-12.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubham/OneDrive/Desktop/Selenium Project/cucumber-core-6.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubham/OneDrive/Desktop/Selenium Project/cucumber-java-6.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubham/OneDrive/Desktop/Selenium Project/tag-expressions-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubham/OneDrive/Desktop/Selenium Project/cucumber-plugin-6.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubham/OneDrive/Desktop/Selenium Project/cucumber-gherkin-messages-6.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubham/OneDrive/Desktop/Selenium Project/docstring-6.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubham/OneDrive/Desktop/Selenium Project/html-formatter-6.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubham/OneDrive/Desktop/Selenium Project/cucumber-gherkin-6.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubham/OneDrive/Desktop/Selenium Project/datatable-3.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubham/OneDrive/Desktop/Selenium Project/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubham/OneDrive/Desktop/Selenium Project/Cuucumber all jar/cucumber-core-6.1.1 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubham/OneDrive/Desktop/Selenium Project/Cuucumber all jar/cucumber-java-6.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubham/OneDrive/Desktop/Selenium Project/Cuucumber all jar/cucumber-junit-6.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubham/OneDrive/Desktop/Selenium Project/Cuucumber all jar/cucumber-jvm-deps-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubham/OneDrive/Desktop/Selenium Project/Cuucumber all jar/gherkin-13.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubham/OneDrive/Desktop/Selenium Project/Cuucumber all jar/junit-4.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubham/OneDrive/Desktop/Selenium Project/Cuucumber all jar/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/shubham/OneDrive/Desktop/Selenium Project/chromedriver_win32.zip"/>
+	<classpathentry kind="lib" path="C:/Users/shubham/OneDrive/Desktop/Selenium Project/gecko-1.1.2.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/shubham/OneDrive/Desktop/Selenium Project/selenium-java-3.141.59.zip"/>
+	<classpathentry kind="lib" path="C:/Users/shubham/OneDrive/Desktop/Selenium Project/geckodriver-master.zip"/>
+	<classpathentry kind="lib" path="C:/Users/shubham/OneDrive/Desktop/Selenium Project/org.apache.commons.io.jar/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubham/OneDrive/Desktop/Selenium Project/selenium-java-3.141.59/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shubham/OneDrive/Desktop/Selenium Project/selenium-java-3.141.59/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
